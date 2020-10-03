@@ -1,5 +1,5 @@
 # Stock-Sentiment-Analysis-using-NewsHeadLines
-
+#logger a good project for python geeks.
 This is basically a program to find the sentiment of stock based on NewsHeadlines
 
 If stock is increasing then we have Class 1
